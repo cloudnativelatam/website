@@ -7,7 +7,7 @@
         font-weight: 300;
         font-size: 40px;
 
-        color: #502366;
+        color: black;
 
         padding-left: 20px;
     }
@@ -16,7 +16,7 @@
         font-weight: bold;
         font-size: 30px;
 
-        color: #502366;
+        color: black;
 
         padding-left: 20px;
     }
@@ -25,7 +25,7 @@
         font-weight: bold;
         font-size: 20px;
 
-        color: #502366;
+        color: black;
 
         padding-left: 20px;
     }
@@ -42,7 +42,7 @@
     //TODO: These should probably be scoped under some landing page class or something=
     .section-one {
         background-image: $gradient;
-        color: white;
+        color: black;
         height: 100%;
 
         @media screen and (max-width: 600px){
@@ -64,10 +64,10 @@
         }
 
         h1{
-            color: white;
+            color: black;
         }
         h3 {
-            color: white;
+            color: black;
         }
         .cover-image {
             margin-top: 70px;
@@ -78,18 +78,18 @@
 
     .section-two {
         background-color: $purple;
-        color: white;
+        color: black;
         height: 100%;
         h3 {
             margin-top: 10px;
-            color: white;
+            color: black;
         }
     }
 
     .section-three {
         background-color: $pink;
         height: 100%;
-        color: white;
+        color: black;
         padding-bottom: 25px;
         padding-top: 25px;
     }

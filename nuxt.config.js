@@ -4,8 +4,8 @@ export default {
   ** Headers of the page
   */
   head: {
-    titleTemplate: 'Cloud Native Nordics',
-    title: 'Cloud Native Nordics',
+    titleTemplate: 'Cloud Native LatAm',
+    title: 'Cloud Native LatAm',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

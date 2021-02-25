@@ -4,35 +4,32 @@
       <v-spacer></v-spacer>
       <v-col cols="8" justify="center" align="center">
         <v-row justify="center">
-                <h2>Cloud Native Nordics is rapidly growing</h2>
-        </v-row>
-        <v-row justify="center">
-          The numbers below are based on data from meetup.com and generated using our &nbsp<a href="https://github.com/cloud-native-nordics/meetups" target="_blank"> meetup-generator</a>
+                <h2>Cloud Native LatAm crece en la región</h2>
         </v-row>
 
-        <br />
-        <v-row justify="center" align="center">
-          <v-col sm="12" md="6" lg="3" cols="12" justify="center" align="center">
-            <v-img width="40%" src="/icon_group.png" />
-            <h1 style="font-weight: 800; font-size: 55px;">{{ meetupGroupsCount }}</h1>
-            <h3 style="font-weight: 400; font-size: 35px;">groups</h3>
-          </v-col>
-          <v-col sm="12" md="6" lg="3" cols="12">
-            <v-img width="40%" src="/icon_meetups.png" />
-            <h1 style="font-weight: 800; font-size: 55px;">{{ totalMembers }}</h1>
-            <h3 style="font-weight: 400; font-size: 35px;">members</h3>
-          </v-col>
-          <v-col sm="12" md="6" lg="3" cols="12">
-            <v-img width="40%" src="/icon_members.png" />
-            <h1 style="font-weight: 800; font-size: 55px;">{{ meetupsCount }}</h1>
-            <h3 style="font-weight: 400; font-size: 35px;">meetups</h3>
-          </v-col>
-          <v-col sm="12" md="6" lg="3" cols="12">
-            <v-img width="40%" src="/icon_avg_rsvp.png" />
-            <h1 style="font-weight: 800; font-size: 55px;">{{ averageAttendees }}</h1>
-            <h3 style="font-weight: 400; font-size: 35px;">avg. rsvps</h3>
-          </v-col>
-        </v-row>
+                <br />
+                <v-row justify="center" align="center">
+                  <v-col sm="12" md="6" lg="3" cols="12" justify="center" align="center">
+                    <!-- <v-img width="40%" src="/icon_group.png" /> -->
+                    <h1 style="font-weight: 800; font-size: 55px;">8</h1>
+                    <h3 style="font-weight: 400; font-size: 35px;">países</h3>
+                  </v-col>
+                  <v-col sm="12" md="6" lg="3" cols="12">
+                    <!-- <v-img width="40%" src="/icon_meetups.png" /> -->
+                    <h1 style="font-weight: 800; font-size: 55px;">&gt;1000</h1>
+                    <h3 style="font-weight: 400; font-size: 35px;">miembros</h3>
+                  </v-col>
+                  <v-col sm="12" md="6" lg="3" cols="12">
+                    <!-- <v-img width="40%" src="/icon_members.png" /> -->
+                    <h1 style="font-weight: 800; font-size: 55px;">&gt;5</h1>
+                    <h3 style="font-weight: 400; font-size: 35px;">eventos/mes</h3>
+                  </v-col>
+                  <v-col sm="12" md="6" lg="3" cols="12">
+                    <!-- <v-img width="40%" src="/icon_avg_rsvp.png" /> -->
+                    <h1 style="font-weight: 800; font-size: 55px;">~30</h1>
+                    <h3 style="font-weight: 400; font-size: 35px;">promedio asistencia</h3>
+                  </v-col>
+                </v-row>
         <br />
       </v-col>
       <v-spacer></v-spacer>

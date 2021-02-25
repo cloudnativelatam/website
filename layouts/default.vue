@@ -1,7 +1,7 @@
 <template>
   <v-app>
-    <navigation></navigation>
-    <bottom-footer></bottom-footer>
+    <!-- <navigation></navigation> -->
+    <!-- <bottom-footer></bottom-footer> -->
     <v-content>
       <Nuxt />
     </v-content>

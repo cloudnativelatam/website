@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@babel/preset-env": "7.12.17",
     "@nuxtjs/apollo": "4.0.0-rc9",
     "@nuxtjs/pwa": "2.6.0",
     "@nuxtjs/vuetify": "1.0.2",
