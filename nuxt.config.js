@@ -1,4 +1,5 @@
 export default {
+  target: 'static',
   mode: 'universal',
   /*
   ** Headers of the page
@@ -12,15 +13,14 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
       // Twitter Card
       { name: 'twitter:card', content: 'summary' },
-      { name: 'twitter:title', content: 'Cloud Native Nordics' },
+      { name: 'twitter:title', content: 'Cloud Native LatAm' },
       { name: 'twitter:description', content: process.env.npm_package_description || '' },
       // image must be an absolute path
       { name: 'twitter:image', content: 'https://cloudnativenordics.com/social-media.png' },
       // Facebook OpenGraph
-      { property: 'og:title', content: 'Cloud Native Nordics' },
-      { property: 'og:site_name', content: 'Cloud Native Nordics' },
+      { property: 'og:title', content: 'Cloud Native LatAm' },
+      { property: 'og:site_name', content: 'Cloud Native LatAm' },
       { property: 'og:type', content: 'website' },
-      { property: 'og:image', content: 'https://cloudnativenordics.com/social-media.png' },
       { property: 'og:description', content: process.env.npm_package_description || '' }
     ],
     link: [
